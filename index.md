@@ -1,4 +1,4 @@
 ---
-title: Manic Strobilation
+##title: Manic Strobilation
 ---
 
